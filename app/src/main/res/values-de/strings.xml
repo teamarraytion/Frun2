@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Frun</string>
+    <string name="greeting_message1">Frun</string>
+    <string name="greeting_message2">Lass uns eins sein</string>
+    <string name="hint_message_profile">Geben Sie Ihren Profilnamen ein</string>
+    <string name="age">Dein Alter</string>
+    <string name="radioButton_Male">männlich</string>
+    <string name="radioButton_Female">weiblich</string>
+    <string name="language">Sprache wählen</string>
+</resources>

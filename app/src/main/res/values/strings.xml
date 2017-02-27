@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Frun</string>
+    <string name="greeting_message1">Frun</string>
+    <string name="greeting_message2">Let us be one</string>
+    <string name="hint_message_profile">Enter your profile name</string>
+    <string name="age">Your age</string>
+    <string name="radioButton_Male">Male</string>
+    <string name="radioButton_Female">Female</string>
+    <string name="language">Choose language</string>
+</resources>
