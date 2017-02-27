@@ -3,16 +3,7 @@
     <string-array name="months">
         <item name="Januar">Januar</item>
         <item name="Februar">Februar</item>
-        <item name="März">März</item>
-        <item name="April">April</item>
-        <item name="Mai">Mai</item>
-        <item name="Juni">Juni</item>
-        <item name="Juli">Juli</item>
-        <item name="August">August</item>
-        <item name="September">September</item>
-        <item name="Oktober">Oktober</item>
-        <item name="November">November</item>
-        <item name="Dezember">Dezember</item>
+
     </string-array>
 </resources>
 
